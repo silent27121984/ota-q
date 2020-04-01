@@ -1,13 +1,16 @@
 {
   "response": [
     {
-      "datetime": 1583918890,
+      "maintainer": "silent27",
+      "oem": "Xiaomi",
+      "device": "santoni",
+      "timestamp": 1583918890,
       "filename": "crDroidAndroid-10.0-20200327-santoni-v6.4.zip",
-      "id": "8ddf0c70084bec737a48e28a7bfc7bd8",
-      "romtype": "UNOFFICIAL",
+      "md5": "8ddf0c70084bec737a48e28a7bfc7bd8",
+      "buildtype": "UNOFFICIAL",
       "size": 614053698,
-      "url": "https://github.com/silent27121984/ota-q/crDroidAndroid-10.0-20200327-santoni-v6.4.zip",
-      "version": "17.1"
+      "download": "https://github.com/silent27121984/ota-q/crDroidAndroid-10.0-20200327-santoni-v6.4.zip",
+      "version": "6.4"
     }
   ]
 }
