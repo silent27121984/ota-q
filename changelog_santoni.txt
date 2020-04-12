@@ -1,2 +1,8 @@
+===== 2020.04.12 =====
+• Updated sources (security patch for April)
+• Wcnss_service from source
+• Updated bluetooth configs
+• The core of the caf
+
 ===== 2020.04.01 =====
 1. Initial build

@@ -4,13 +4,13 @@
       "maintainer": "silent27",
       "oem": "Xiaomi",
       "device": "santoni",
-      "timestamp": 1586011724,
-      "filename": "crDroidAndroid-10.0-20200404-santoni-v6.4.zip",
-      "md5": "93053af02c6f7ad8bb616a70d371d6fe",
+      "timestamp": 1586684017,
+      "filename": "crDroidAndroid-10.0-20200412-santoni-v6.5.zip",
+      "md5": "12410c436200155448a994666f7d6cd0",
       "buildtype": "UNOFFICIAL",
-      "size": 631514518,
-      "download": "https://sourceforge.net/projects/silent27-rom/files/cr_ota/crDroidAndroid-10.0-20200404-santoni-v6.4.zip/download",
-      "version": "6.4"
+      "size": 655048741,
+      "download": "https://sourceforge.net/projects/silent27-rom/files/cr_ota/crDroidAndroid-10.0-20200412-santoni-v6.5.zip/download",
+      "version": "6.5"
     }
   ]
 }
